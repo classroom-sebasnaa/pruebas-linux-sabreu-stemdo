@@ -1,21 +1,21 @@
+# Ejercicios Básicos de Linux para Iniciarse en el Mundo de DevOps
+¡Bienvenido/a a los ejercicios básicos de Linux para iniciarse en el mundo de DevOps!
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/y124-NFp)
 # initial-instructions
 
-Manten los apartados `Estructura del Repositorio` , `Contribución` y modifica el resto de apartados
-
-
-## Ejercicios de _tecnologia_ para iniciarse en el Mundo de DevOps
-
-¡Bienvenido/a a los ejercicios básicos de _tecnologia_ para iniciarse en el mundo de DevOps!
-
-Este repositorio contiene una serie de ejercicios diseñados para ayudarte a familiarizarte con ...
+Este repositorio contiene una serie de ejercicios diseñados para ayudarte a familiarizarte con el sistema operativo Linux y desarrollar habilidades fundamentales para el trabajo en el campo de DevOps. Los ejercicios cubren una variedad de temas, desde comandos básicos de Linux hasta tareas más avanzadas relacionadas con la automatización y el despliegue de aplicaciones.
 
 ## Objetivos
 
-El propósito principal de estos ejercicios es proporcionarte una introducción práctica a los conceptos clave de _tecnologia_ que son esenciales para cualquier persona interesada en trabajar en el área de DevOps. Al completar estos ejercicios, esperamos que adquieras experiencia práctica con:
+El propósito principal de estos ejercicios es proporcionarte una introducción práctica a los conceptos clave de Linux que son esenciales para cualquier persona interesada en trabajar en el área de DevOps. Al completar estos ejercicios, esperamos que adquieras experiencia práctica con:
 
-- ...
-- ...
-- ...
+- Uso básico de la terminal de Linux.
+- Administración de archivos y directorios.
+- Gestión de procesos y servicios.
+- Configuración de redes y seguridad.
+- Automatización de tareas con scripts de shell.
+- Implementación de prácticas básicas de DevOps.
 
 ## Estructura del Repositorio
 
